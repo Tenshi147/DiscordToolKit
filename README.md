@@ -9,7 +9,7 @@ This tool comes with:
 * A webhook deleter
 * Token info grabber
 
-## Screen Shots:
+## Screenshots:
 ![alt text](https://github.com/Kami147/DiscordToolKit/blob/main/DiscordToolkit/images/Screenshot_1.png)
 ![alt text](https://github.com/Kami147/DiscordToolKit/blob/main/DiscordToolkit/images/Screenshot_2.png)
 ![alt text](https://github.com/Kami147/DiscordToolKit/blob/main/DiscordToolkit/images/Screenshot_3.png)
